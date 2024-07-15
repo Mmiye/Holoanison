@@ -1,7 +1,7 @@
 export const animeEndings = [
   {
-    name: "Ao no Kanata no Four Rhythm - \"Wings of Courage\" by Kawada Mami",
-    videoId: "c74D_ug--K4",
+    name: "The iDOLM@STER Million Live!01 - \"Akai Sekai ga Kieru Koro\" by Kido Ibuki, Oozeki Eri, Kondo Yui, Abe Rika & Hirayama Emi",
+    videoId: "0MgtK30HFrM",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -10,8 +10,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Blue Archive - \"RE Aoharu\"",
-    videoId: "4rDOsvzTicY",
+    name: "The iDOLM@STER Million Live!02 - \"Alive Facto\"r by Chihaya Kisaragi and Shizuka Mogami",
+    videoId: "efXIu65q9W0",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -20,8 +20,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "DuckTales: Remastered - \"Moon Theme\" by Jake Kaufman",
-    videoId: "YHEifuLCSIY",
+    name: "The iDOLM@STER Cinderella Girls01 - \"always\" by Saori Hayami",
+    videoId: "TrVvFkGrDeg",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -30,8 +30,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Mario & Luigi Bowser\u00b4s Inside Story - \"Final Boss Battle Dark Bowser / Core\"",
-    videoId: "KcAfG0Sn-u4",
+    name: "The iDOLM@STER Million Live!03 - \"Big Bang's Volleyball!!!!!\" by Reina Ueda ,Yukiyo Fujii, Yuri Komagata, Rie Suegara, Yui Watanabe",
+    videoId: "Xs-mB6nFMV4",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -40,8 +40,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Umineko no Naku Koro Ni - \"DreamEndDischarger\" by zts",
-    videoId: "zDPJuAxZaOo",
+    name: "iDOLM@STER Xenoglossia - \"Binetsu S.O.S!!\" by Miyuki Hashimoto",
+    videoId: "jeagPlq9oAI",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -50,8 +50,18 @@ export const animeEndings = [
     }
   },
   {
-    name: "Ao no kiseki - \"Unfathomed Force\" by Saki Momiyama",
-    videoId: "S9mL0PasBkw",
+    name: "The iDOLM@STER Shiny Colors01 - \"BRIGHTEST WHITE\" by illumination STARS",
+    videoId: "https://youtu.be/CSLJHEJYmXo?si=tcJgLoA6aD8lfZ6H",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "THE iDOLM@STER Million Live!04 - \"Do the IDOL!! \uff5eKingashinnen Remix\uff5e\" by Koiwai Kotori, Kahara Yuu, Itou Miku, Saitou Yuka, Machico",
+    videoId: "vNySX8InPqQ",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -60,8 +70,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Wild Arms - \"Into the Wilderness\" by Michiko Naruke",
-    videoId: "a6SxF7IllBY",
+    name: "THE iDOLM@STER Shiny Colors02 - \"Dye the sky\" by Shiny Colors",
+    videoId: "jt0BDjLDPRY",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -70,8 +80,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Astlibra Revision - \"Memoria -As You Wish-\" by Yamamo Maya",
-    videoId: "HonJhJ-v9Pc",
+    name: "THE iDOLM@STER Million Live!05 - \"Harmonics\" by D/Zeal",
+    videoId: "loHyF-mpJ0k",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -80,8 +90,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Library of ruina - \"String Theocracy\" by Mili",
-    videoId: "nOj_A3aZxGs",
+    name: "The iDOLM@STER Shiny Colors03 - \"Hoshi wo Mezashite\" by Yuki Tanaka",
+    videoId: "EzjX79cuHz8",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -90,8 +100,38 @@ export const animeEndings = [
     }
   },
   {
-    name: "Odin sphere - \"Odin Sphere\" by Atlus",
-    videoId: "8zygaxAIVlA",
+    name: "The iDOLM@STER Million Live!06 - \"Hummingbird\" by Arisa Kouri",
+    videoId: "https://youtu.be/4KaX4It9mjw?si=vky_WGAC_Xnapmz9",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "Ijigen Fes IDOLM@STER\u2605\u2665Love Live! Uta Gassen - \"Ijigen\u2605\u2665BIGBANG\" by Ayaka Ohashi, Azusa Tadakoro, Karin Isobe, Anju Inami, Aguri Oonishi, Sayuri Date, Nozomi Nirei",
+    videoId: "https://youtu.be/3p7__uAHhdQ?si=F5fqCQWK84uVFzQy",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The iDOLM@STER01 - \"Inspire\" by Asami Imai & Chiaki Takahashi",
+    videoId: "https://files.catbox.moe/ckuwgk.mp3",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The iDOLM@STER Shiny Colors04 - \"Itsudatte Bokura wa\" by noctchill",
+    videoId: "NAWIdRaCIzs",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -100,8 +140,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Ragnarok Battle Offline - \"Sky-Blue Melody\" by Raito",
-    videoId: "-1P1aGSFBXs",
+    name: "Gakuen iDOLM@STER - \"Ivy\" by Tsumiki and Nao Ojika",
+    videoId: "LATlgizqmPs",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -110,8 +150,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Chrono Trigger - \"Frog's Theme\" by Yasunori Mitsuda",
-    videoId: "8JADKlgXqjU",
+    name: "THE IDOLM@STER CINDERELLA GIRLS STARLIGHT MASTER COLLABORATION! - \"Jubilee\" by Hoshimachi Suisei and Kaede Takagaki",
+    videoId: "3mo2EwFZ0p8",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -120,8 +160,38 @@ export const animeEndings = [
     }
   },
   {
-    name: "Persona 5 - \"Last Surprise\" by Lyn",
-    videoId: "ZNGqBDRJgvo",
+    name: "The iDOLM@STER Shiny Colors05 - \"Kamisama wa Shinda, tte\" by Rina Kawaguchi",
+    videoId: "https://youtu.be/Xo5VNtvFmt8?si=iLexkXBLJtmFdL-f",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The iDOLM@STER Million Live!07 - \"Last Actress\" by Risa Taneda, Keiko Watanabe, Minami Takahashi, Rika Abe & Saki Minami",
+    videoId: "https://youtu.be/bFlVMG8NWQE?si=Nynjspm3GnAvwszM",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The iDOLM@STER02 - \"Marionette no Kokoro\" by Akiko Hasegawa",
+    videoId: "https://youtu.be/HNsSnrxIsRw?si=I5fTGKX-CjaoTrqT",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The iDOLM@STER Cinderella Girls02 - \"Mata Kimi ni Koishiteru\" by Rika Tachibana",
+    videoId: "yqpSUc-RFVg",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -130,8 +200,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Final Fantasy 14 - \"Footfalls\" by Endwalker",
-    videoId: "-vJn7MXRBX4",
+    name: "The iDOLM@STER Cinderella Girls03 - \"Myself\" by Haruka Chisuga",
+    videoId: "XLOaHFqbH_Q",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -140,8 +210,18 @@ export const animeEndings = [
     }
   },
   {
-    name: "Baldur's Gate 3 - \"The Weeping Dawn\" by Ilona Ivanova",
-    videoId: "VZXFi9mpIS4",
+    name: "The iDOLM@STER03 - \"Nemuri Hime\" by Asami Imai",
+    videoId: "https://ladist1.catbox.video/dxp7sc.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The iDOLM@STER Cinderella Girls04 - \"Pandemic Alone (Live Version)\" by Syoko Hoshi (Matsuda Satsumi)",
+    videoId: "b2oygcmrsZs",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -150,8 +230,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Honkai: Star Rail - \"Wildfire\" by Jonathan Steingard",
-    videoId: "SxlW79tDhCA",
+    name: "The iDOLM@STER Cinderella Girls05 - \"Pretty Liar\" by Mysterious Eyes",
+    videoId: "mRIfqUClWMw",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -160,8 +240,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Re: LieF ~Shin'ainaru Anata e~ - \"Re:TrymenT\" by Hotaru Murasaki",
-    videoId: "cT3wbp17Ano",
+    name: "The iDOLM@STER Shiny Colors06 - \"Setsu Getsu Fu Ka\" by Mizuki Yuina",
+    videoId: "wYRZ7sFzOtQ",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -170,8 +250,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Border Break - \"Amazing Trees\" by SawanoHiroyuki[nZk]:Tielle",
-    videoId: "AOTVFVXr1fY",
+    name: "The iDOLM@STER Million Live!08 - \"Sister\" by Kotori Koiwai",
+    videoId: "vyBtQ2uYcaY",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -180,8 +260,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Iron Saga - \"Sea of Fire\" by Hiroyuki Sawano ft.Mizuki",
-    videoId: "5WLMwfX3a9A",
+    name: "The iDOLM@STER Million Live!09 - \"Souzou wa Hajimari no Kaze o Tsurete\" by Miku Itou, Kotori Koiwai, Momo Asakura, Rie Murakawa and Atsuki Nakamura",
+    videoId: "fDkqJ2TP470",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -190,8 +270,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "Uma Musume Pretty Derby - \"GIRLS' LEGEND U (18\u4ebaVer)\"",
-    videoId: "3b5jH1m4F5Q",
+    name: "The iDOLM@STER Cinderella Girls06 - \"Step!\" by Sayuri Hara",
+    videoId: "HAHJUtSR90g",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -200,8 +280,18 @@ export const animeEndings = [
     }
   },
   {
-    name: "King's Raid - \"The Right\" by Shin YoungSook",
-    videoId: "xJ7RevokdAQ",
+    name: "The iDOLM@STER Million Live!10 - \"Thank You!\" by MILLIONSTARS",
+    videoId: "https://ladist1.catbox.video/9fw1sb.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
+    opts: {
+      singer: [
+        "ED"
+      ]
+    }
+  },
+  {
+    name: "The iDOLM@STER Shiny Colors07 - \"Tokosaki no Niwa\" by Wakana Maruoka",
+    videoId: "ApxRnZcZhAI",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -210,8 +300,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "World of Warcraft - \"Warbringers: Jaina\" by Logan Laflotte",
-    videoId: "Fo7XPvwRgG8",
+    name: "The iDOLM@STER Cinderella Girls07 - \"Trinity Field\" by Triad Primus",
+    videoId: "WzcK3YIpYtA",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
@@ -220,9 +310,9 @@ export const animeEndings = [
     }
   },
   {
-    name: "Armored Core 6  - \"Contact with you\"  by Kota Hoshino",
-    videoId: "BCuD93YxuPs",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "THE IDOLM@STER04 - \"VOY@GER\" by THE IDOLM@STER FIVE STARS!!!!!",
+    videoId: "https://youtu.be/HJKqSYK_z0w",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -230,9 +320,9 @@ export const animeEndings = [
     }
   },
   {
-    name: "Destiny 2 - \"Deep Stone Lullaby\" by Michael Salvatori",
-    videoId: "qBIJFTPPp-8",
-    videoSource: VIDEOSOURCE.YOUTUBE,
+    name: "The iDOLM@STER Shiny Colors08 - \"Yumesaki After school\" by Houkago Climax Girls",
+    videoId: "https://ladist1.catbox.video/qpwasl.webm",
+    videoSource: VIDEOSOURCE.CATBOX,
     opts: {
       singer: [
         "ED"
@@ -240,258 +330,8 @@ export const animeEndings = [
     }
   },
   {
-    name: "DANGANRONPA - \"BOX 15\" by Masafumi Takada",
-    videoId: "QlP9vcvhSs0",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Granblue Fantasy - \"Burning Out the Blue\" by Tsutomu Narita",
-    videoId: "EPJyVPdSgBs",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Super Robot Wars Alpha - \"Neppu! Shippu! Cybuster\" by JAM Project",
-    videoId: "iqua636-6UA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Civilization 4 - \"Baba Yetu\" by Christopher Tin",
-    videoId: "IJiHDmyhE1A",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Persona 3 - \"Memories of You\" by Yumi Kawamura",
-    videoId: "JiKMzXwOH-E",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Super Mario Galaxy - \"Space Junk Galaxy\"",
-    videoId: "3Y2T9j9jMPY",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Tekken 8 - \"My last stand\" by Robbie Wyckoff",
-    videoId: "9r3KK77vFgc",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Diablo - \"Diablo Tristam\" by Matt Uelmen",
-    videoId: "AnMR6SOBa9k",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Cytus II - \"SECRET;WEAPON\" by Yukacco",
-    videoId: "XdjPB2V5R5s",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Asphalt 9 Legends - \"Renegade\" by Axwell /\\ Ingrosso",
-    videoId: "OYJNGZmqDqA",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "NieR Replicant (2010) - \"Song of the Ancients/Devola\"  by MONACA",
-    videoId: "mJPG2RxJ6RE",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Metin 2 - \"enter the east\"",
-    videoId: "bn1YCClRF-g",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Rhythm Games - \"Bamboo\" By Rish ft. Choko",
-    videoId: "65Smh8rwdJI",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Sakura no Uta - \"Sakura no Uta\" By Hana",
-    videoId: "ulhuIXQJBXU",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Granblue Fantasy Versus / Versus Rising - \"Parade's Lust\" By Tsutomu Narita ft. Taro Kobayashi",
-    videoId: "-N7dGqpvhBM",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Octopath Traveler II - \"Critical Clash I\" By Yasunori Nishiki",
-    videoId: "QbsIXAIn5aE",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "The Caligula Effect: Overdose - \"Tenshi no uta\" by \u03bc",
-    videoId: "mlNZPgX4qTk",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "YS4: The Dawn of Ys - \"In The Fires of Ignition\" by Falcom",
-    videoId: "rM7ocnLoG6Y",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Demons Roots - \"Blossom\" by Shade ",
-    videoId: "jd7RVLQuK14",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Final Fantasy XIII-2 - \"Full Speed Ahead\" by Naoshi Mizuta ",
-    videoId: "mTHzYWtdU_Q",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Arknights - \"Wlfmster\" by Adam Gubman feat. Shawn W. Smith",
-    videoId: "E44IRAYFadw",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Epic Battle Fantasy IV - \"Van al Tag (Extended)\" by Phyrnna",
-    videoId: "vnEUb70odr4",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "MapleStory - \"Temple of Time\" by CODASOUND",
-    videoId: "6uCaEDM-Kf8",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "The Legend of Zelda: Majora\u2019s Mask - \"Song of Healing\" by Koji Kondo",
-    videoId: "XDX4ZwUeOok",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "Payday 2 - \"Break the Rules\" by Simon Viklund",
-    videoId: "p4Z96WwZrL0",
-    videoSource: VIDEOSOURCE.YOUTUBE,
-    opts: {
-      singer: [
-        "ED"
-      ]
-    }
-  },
-  {
-    name: "No Straight road - \"No Straight Roads OST\"  by VS SAYU ft. Nikki Simmons",
-    videoId: "LQboZNoMd0c",
+    name: "The iDOLM@STER Cinderella Girls08 - \"\u304a\u306d\u3060\u308a Shall We\uff5e\uff1f\" by Natsumi Takamori",
+    videoId: "GsSrWdDBVD4",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
