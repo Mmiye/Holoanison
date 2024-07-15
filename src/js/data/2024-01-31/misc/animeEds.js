@@ -51,7 +51,7 @@ export const animeEndings = [
   },
   {
     name: "The iDOLM@STER Shiny Colors01 - \"BRIGHTEST WHITE\" by illumination STARS",
-    videoId: "CSLJHEJYmXo",
+    videoId: "5LVl_y1kuy8",
     videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
