@@ -51,8 +51,8 @@ export const animeEndings = [
   },
   {
     name: "The iDOLM@STER Shiny Colors01 - \"BRIGHTEST WHITE\" by illumination STARS",
-    videoId: "https://youtu.be/CSLJHEJYmXo?si=tcJgLoA6aD8lfZ6H",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "CSLJHEJYmXo",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -101,8 +101,8 @@ export const animeEndings = [
   },
   {
     name: "The iDOLM@STER Million Live!06 - \"Hummingbird\" by Arisa Kouri",
-    videoId: "https://youtu.be/4KaX4It9mjw?si=vky_WGAC_Xnapmz9",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "4KaX4It9mjw",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -111,8 +111,8 @@ export const animeEndings = [
   },
   {
     name: "Ijigen Fes IDOLM@STER\u2605\u2665Love Live! Uta Gassen - \"Ijigen\u2605\u2665BIGBANG\" by Ayaka Ohashi, Azusa Tadakoro, Karin Isobe, Anju Inami, Aguri Oonishi, Sayuri Date, Nozomi Nirei",
-    videoId: "https://youtu.be/3p7__uAHhdQ?si=F5fqCQWK84uVFzQy",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "3p7__uAHhdQ",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -161,8 +161,8 @@ export const animeEndings = [
   },
   {
     name: "The iDOLM@STER Shiny Colors05 - \"Kamisama wa Shinda, tte\" by Rina Kawaguchi",
-    videoId: "https://youtu.be/Xo5VNtvFmt8?si=iLexkXBLJtmFdL-f",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "Xo5VNtvFmt8",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -171,8 +171,8 @@ export const animeEndings = [
   },
   {
     name: "The iDOLM@STER Million Live!07 - \"Last Actress\" by Risa Taneda, Keiko Watanabe, Minami Takahashi, Rika Abe & Saki Minami",
-    videoId: "https://youtu.be/bFlVMG8NWQE?si=Nynjspm3GnAvwszM",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "bFlVMG8NWQE",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -181,8 +181,8 @@ export const animeEndings = [
   },
   {
     name: "The iDOLM@STER02 - \"Marionette no Kokoro\" by Akiko Hasegawa",
-    videoId: "https://youtu.be/HNsSnrxIsRw?si=I5fTGKX-CjaoTrqT",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "HNsSnrxIsRw",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
@@ -311,8 +311,8 @@ export const animeEndings = [
   },
   {
     name: "THE IDOLM@STER04 - \"VOY@GER\" by THE IDOLM@STER FIVE STARS!!!!!",
-    videoId: "https://youtu.be/HJKqSYK_z0w",
-    videoSource: VIDEOSOURCE.CATBOX,
+    videoId: "HJKqSYK_z0w",
+    videoSource: VIDEOSOURCE.YOUTUBE,
     opts: {
       singer: [
         "ED"
